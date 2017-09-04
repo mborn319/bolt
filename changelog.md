@@ -4,7 +4,7 @@ Changelog for Bolt 3.x
 Bolt 3.4 beta 1
 ---------------
 
-Released: 2017-08-31. Notable changes
+Released: 2017-09-XX. Notable changes
 
  - Added: Add environment support to config variable lookups [#6208](https://github.com/bolt/bolt/pull/6208)
  - Added: Add labels to translations for repeaters / new block fields [#6247](https://github.com/bolt/bolt/pull/6247)
@@ -24,7 +24,7 @@ Released: 2017-08-31. Notable changes
  - Change: Migrate pre-fill service to new storage layer [#6550](https://github.com/bolt/bolt/pull/6550)
  - Change: Modded core's select field to accommodate for multiple contenttypes. [#6270](https://github.com/bolt/bolt/pull/6270) [#6299](https://github.com/bolt/bolt/pull/6299)
  - Change: More Symfony Forms updates [#6766](https://github.com/bolt/bolt/pull/6766)
- - Change: More Twig imports & aliases [#6625]()https://github.com/bolt/bolt/pull/6625)
+ - Change: More Twig imports & aliases [#6625](https://github.com/bolt/bolt/pull/6625)
  - Change: Move Nut Import/Export to new Storage Engine and support multiple migrations [#6258](https://github.com/bolt/bolt/pull/6258)
  - Change: Nut styling & integer return values [#6586](https://github.com/bolt/bolt/pull/6586)
  - Change: Phase I of Symfony Forms use for the back-end record editing (Rouge Logic 1) [#6214](https://github.com/bolt/bolt/pull/6214)
